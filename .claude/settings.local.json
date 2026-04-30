@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /home/sfl/Documents/cirureg/.env*)"
+    ]
+  }
+}
